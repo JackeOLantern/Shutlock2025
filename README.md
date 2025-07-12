@@ -3,9 +3,8 @@
 Bienvenue dans le dépôt de **Shutlock2025**.
 
 ## Enoncé du sujet
-![image](assets/images/annonce.jpg)
-![image](assets/images/trailer.jpg)
-
+![image](assets/images/annonce.png)
+![image](assets/images/trailer.png)
 
 
 ## Fonctionnalités
