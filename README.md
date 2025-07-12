@@ -3,7 +3,7 @@
 Bienvenue dans le dépôt de **Shutlock2025**.
 
 ## Enoncé du sujet
-![video](assets/images/annonce.jpg)
+![image](assets/images/annonce.jpg)
 ![image](assets/images/trailer.jpg)
 
 
