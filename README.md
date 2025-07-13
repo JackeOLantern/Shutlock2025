@@ -1,6 +1,6 @@
 # Solution des défis du Shutlock2025 édition 2
 
-Bienvenue dans le dépôt de **Shutlock2025**.
+Bienvenue dans le dépôt de **Shutlock2025 éd. 2**.
 
 ## Enoncé du sujet
 ![image](assets/images/annonce.png)
@@ -9,7 +9,7 @@ Bienvenue dans le dépôt de **Shutlock2025**.
 
 ## Fonctionnalités
 
-- **La résolution (arrêt-solution) en dossier courant (court rend) des mots (démos) ** : ReadMe.md et <thème> (Fichier PDF).🖼️ 
+La résolution (arrêt-solution) en dossier courant (court rend) des mots (démos) : README et mon Thème (PDF).🖼️ 
 
 
 ## Installation
