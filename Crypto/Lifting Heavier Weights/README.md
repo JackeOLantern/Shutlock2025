@@ -24,9 +24,11 @@ Bienvenue dans le dépôt de **Shutlock2025**.
 ➡️ **On obtient** :
 
 On a  
-\(x \equiv y \pmod p\) ⇒ \(p \mid x-y\)  
+$x \equiv y \pmod p \;\Longrightarrow\; p \mid (x-y)$  
+
 et  
-\(n = p^{\text{byte}\times\text{big\_big\_big}}\times q\).
+
+$n = p^{\text{byte}\times\text{big\_big\_big}}\times q$
 
 $$
 \nu_{p}(x^{n}-y^{n})=\nu_{p}(x-y)+\nu_{p}(n)
