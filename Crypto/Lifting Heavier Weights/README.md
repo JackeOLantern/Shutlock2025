@@ -30,7 +30,6 @@ Par le **lemme LTE** (Lifting the Exponent) pour un \(p\) impair :
 
 $\nu_{p}\bigl(x^{n}-y^{n}\bigr)=\nu_{p}(x-y)+\nu_{p}(n)$
 
-Or, ici 
 $$
 \nu_{p}(n)=\text{byte}\times\text{big\\_big\\_big}
 $$
