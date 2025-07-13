@@ -28,10 +28,10 @@ $$x \equiv y \pmod p \;\Longrightarrow\; p \mid (x-y);\$$
 $$n = p^{\text{byte}\times\text{big\_big\_big}}\times q$$
 
 
-$$\nu_{p}\!\bigl(x^{n}-y^{n}\bigr)=\nu_{p}(x-y)+\nu_{p}(n)$$
+$$\nu_{p}\bigl(x^{n}-y^{n}\bigr)=\nu_{p}(x-y)+\nu_{p}(n)$$
 
-$$\nu_{p}(n)=\text{byte}\times\text{big\_big\_big}$$
-$$\text{big\_big\_big}=1000^{\,i}$$
+$$\nu_{p}(n)=\text{byte}\times\text{big\_big\_big} \\
+\text{big\_big\_big}=1000^{\,i}$$
 
 Finalement :
 
