@@ -27,11 +27,13 @@ On a
 $$x \equiv y \pmod p \;\Longrightarrow\;p \mid (x-y);\$$  
 $\nu_{p}\bigl(x^{n}-y^{n}\bigr)=\nu_{p}(x-y)+\nu_{p}(n)$
 
-```math
-\nu_{p}(n)=\text{byte}\times\text{big_big_big}
+$$
+\nu_{p}(n)=\text{byte}\times\text{big\_big\_big}
+$$
 
-\text{big_big_big}=1000^{\,i}
-
+$$
+\text{big\_big\_big}=1000^{\,i}
+$$
 Finalement :
 
 $$
