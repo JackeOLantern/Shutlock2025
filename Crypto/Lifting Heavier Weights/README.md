@@ -26,10 +26,10 @@ Bienvenue dans le dépôt de **Shutlock2025**.
 On a  
 \(x \equiv y \pmod p\) ⇒ \(p \mid x-y\)  
 et  
-\(n = p^{\text{byte} \times \text{big\\_big\\_big}} \times q\).
+\(n = p^{\text{byte}\times\text{big\_big\_big}}\times q\).
 
 $$
-\nu_{p}\!\bigl(x^{n}-y^{n}\bigr)=\nu_{p}(x-y)+\nu_{p}(n)
+\nu_{p}(x^{n}-y^{n})=\nu_{p}(x-y)+\nu_{p}(n)
 $$
 
 $$
@@ -40,7 +40,7 @@ $$
 \text{big\_big\_big}=1000^{\,i}
 $$
 
-Ainsi, après la dernière itération :
+Finalement :
 
 $$
 v=\sum_{i}\bigl(\text{byte}_{i}\times1000^{i}\bigr)
