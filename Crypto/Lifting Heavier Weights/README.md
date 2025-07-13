@@ -26,13 +26,9 @@ Bienvenue dans le dépôt de **Shutlock2025**.
 $$
 \nu_{p}(x^n - y^n) = \nu_{p}(x - y) + \nu_{p}(n),
 $$
-
 Or ici :
-
-$\nu_{p}(n) = \text{byte} \times \text{big\_big\_big},
-\quad \text{big\_big\_big} = 1000^{i}$
-
-
+$$\nu_{p}(n) = \text{byte} \times \text{big\_big\_big},
+\quad \text{big\_big\_big} = 1000^{i}$$
 Finalement, à la dernière itération, la valeur retournée par `f(p, temp)` est :
 
 $$
