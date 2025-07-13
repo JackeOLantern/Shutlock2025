@@ -28,9 +28,10 @@ $$
 $$
 
 Or ici :
-$$\nu_{p}(n) = \text{byte} \times \text{big\_big\_big}
-\quad\text{et}\quad
-\text{big\_big\_big} = 1000^{i}$$ 
+$$
+\nu_{p}(n) = \text{byte} \times \text{big\_big\_big},\quad
+\text{big\_big\_big} = 1000^{i}
+$$
 
 Finalement, à la dernière itération, la valeur retournée par `f(p, temp)` est :
 
