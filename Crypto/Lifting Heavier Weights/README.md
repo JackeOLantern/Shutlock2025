@@ -28,18 +28,18 @@ $x \equiv y \pmod p \;\Longrightarrow\; p \mid (x-y)$
 
 et  
 
-$n = p^{\text{byte}\times\text{big\_big\_big}}\times q$
+$$n = p^{\text{byte}\times\text{big\_big\_big}}\times q$$
 
 $$
-\nu_{p}(x^{n}-y^{n})=\nu_{p}(x-y)+\nu_{p}(n)
-$$
-
-$$
-\nu_{p}(n)=\text{byte}\times\text{big\_big\_big}
+A=\nu_{p}(x^{n}-y^{n})=\nu_{p}(x-y)+\nu_{p}(n)
 $$
 
 $$
-\text{big\_big\_big}=1000^{\,i}
+B=\nu_{p}(n)=\text{byte}\times\text{big\_big\_big}
+$$
+
+$$
+C=\text{big\_big\_big}=1000^{\,i}
 $$
 
 Finalement :
