@@ -23,21 +23,29 @@ Bienvenue dans le dépôt de **Shutlock2025**.
 
 ➡️ **On obtient** :
 
-$$
-\nu_{p}(x^n - y^n) = \nu_{p}(x - y) + \nu_{p}(n),
-$$
-
-Or, ici :
-
-$$
-\nu_{p}(n) = \text{byte} \times \text{big\_big\_big},\quad
-\text{big\_big\_big} = 1000^{i}
-$$
-Finalement, à la dernière itération, la valeur retournée par `f(p, temp)` est :
+On a  
+\(x \equiv y \pmod p\) ⇒ \(p \mid x-y\)  
+et  
+\(n = p^{\text{byte} \times \text{big\\_big\\_big}} \times q\).
 
 $$
-v = \sum_{i} \bigl(\text{byte}_{i} \times 1000^{i}\bigr)
+\nu_{p}\!\bigl(x^{n}-y^{n}\bigr)=\nu_{p}(x-y)+\nu_{p}(n)
 $$
+
+$$
+\nu_{p}(n)=\text{byte}\times\text{big\_big\_big}
+$$
+
+$$
+\text{big\_big\_big}=1000^{\,i}
+$$
+
+Ainsi, après la dernière itération :
+
+$$
+v=\sum_{i}\bigl(\text{byte}_{i}\times1000^{i}\bigr)
+$$
+
 
 ## Installation
 
