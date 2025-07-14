@@ -23,9 +23,8 @@ $$F[i] \;=\; R[i] \,\cdot\, k_{\,i \bmod 4} \pmod{256}$$
 
 Pour chaque \(i\), on résout l’équation :
 
-$$
-R_i \,\cdot\, k_{\,i \bmod 4} \;\equiv\; F_i \pmod{256}
-$$
+
+$$R_i \,\cdot\, k_{\,i \bmod 4} \;\equiv\; F_i \pmod{256}$$
 Clé sur quatre octets :
 
 
