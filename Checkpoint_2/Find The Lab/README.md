@@ -8,17 +8,15 @@ Bienvenue au dépôt de **Shutlock2025 éd. 2** : Find The Lab.
 ![image](assets/images/fleuriste_cannes.png)
 ![image](assets/images/residence_parking.png)
 ![image](assets/images/salangane.png)
-
 ![image](assets/images/adresse_cible.png)
-
-![image](assets/images/lab.png)
+![image](assets/images/lab.jpg)
 ![image](assets/images/correction.png)
 
 
 
 ## Fonctionnalités
 A l'aide d'une photo, il est requis de chercher d'où une photo a été prise. S'appuyant sur des outils tels Google Maps et Google Street View, zooms à travers les positions des rues afin par recoupement de retrouver la résidence et l'étage depuis la prise de vue.
-Le sujet est bien d'OSINT.🖼️ 
+Le sujet est d'OSINT.🖼️ 
 
 ## Installation
 

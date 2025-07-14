@@ -1,4 +1,4 @@
-# Solution des défis du Shutlock2025 édition 2
+# Solution des défis du Shutlock2025 édition 2 : Lifting Heavier Weights
 
 Bienvenue dans le dépôt de **Shutlock2025**.
 
