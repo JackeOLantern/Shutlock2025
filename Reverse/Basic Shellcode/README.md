@@ -3,7 +3,6 @@ Bienvenue dans le dépôt de **Shutlock2025**.
 
 ## Enoncé du sujet
 ![image](assets/images/enonce.png)
-![image](assets/images/resolution.png)
 ![image](assets/images/corrige.png)
 
 
@@ -24,15 +23,11 @@ Extraire KEY et SECRET dans check() et écrire l’équation XOR.
 
 Déduire le buffer de 32 octets attendu. Analyser le shellcode : 
 
-il réarrange votre saisie avec la permutation : (7·i) mod 32.
+il réarrange votre saisie avec la permutation : $(7·i) mod 32$
 
 La permutation (multiplier l’indice par 23) reste à inverser.
 
-Si le message affiche “This is the right flag!”, c’est gagné.
-
-S’il affiche “Try again!”, le flag est erroné (ou mal recopié).
-
-🏁Le flag final est obtenu : SHLK{Th3NexT_0nEwoNtBe-s0SimPle}
+Si le message affiche “ This is the right flag! ”, c’est gagné.
 
 
 ## Installation
