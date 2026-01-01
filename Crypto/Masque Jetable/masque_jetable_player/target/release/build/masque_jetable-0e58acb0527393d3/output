@@ -1,0 +1,2 @@
+cargo::rustc-link-arg-bins=-nostartfiles
+cargo::rustc-link-arg-bins=--entry=entry

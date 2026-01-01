@@ -1,0 +1,18 @@
+[package]
+name = "masque_jetable"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+sc = "0.2"
+rand = { version = "0.8", default-features = false, features = ["small_rng"] }
+
+[profile.release]
+opt-level = "z"
+panic = "abort"
+lto = true
+
+[profile.dev]
+opt-level = 1
+panic = "abort"
+lto = "thin"

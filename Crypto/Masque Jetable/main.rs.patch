@@ -1,0 +1,8 @@
+10c10
+< const FLAG: &[u8] = b"CTF/5094e1507389d939b487e6e2cccd1986/";
+---
+> const FLAG: &[u8] = b"SHLK{this_is_a_sample_flag_to_test_challenge}";
+14c14
+<     assert!(matches!(FLAG.len(), 32..40));
+---
+>     assert!(matches!(FLAG.len(), 42..46));
